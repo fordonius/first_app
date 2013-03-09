@@ -1,2 +1,2 @@
 #Ruby on rails first app
-this is the first application for the ruby on rails tutorial by michael Hart
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) by [Michael Hartl](http://michaelhaartl.com/).
